@@ -1,6 +1,10 @@
 # ngapi
 ngapi
 
+Easy use rest api, using slimframework, PDO driver
+
+
+
 # credits
 
 # Contribution
