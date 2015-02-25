@@ -10,7 +10,7 @@
  * start 20150224 ^_^
  * 
  * @author 		Gunaones
- * @copyright	2011 Gunaones
+ * @copyright	2015 Gunaones
  * @link 		https://github.com/gunaones/ngapi
  * @license 	https://github.com/gunaones/ngapi
  * @version 	1.0
